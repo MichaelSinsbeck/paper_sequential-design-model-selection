@@ -2,6 +2,10 @@
 
 Research code for the paper "Sequential Design of Computer Experiments for the Computation of Bayesian Model Evidence"
 
+A more organized implementation of the paper's method is available in my other repository [bali](https://github.com/MichaelSinsbeck/bali). I strongly recommend using that implementation, unless you need to specifically reproduce the experiments from the article.
+
+## Quick start
+
 To run the code, you need the python packages
 
  * numpy (1.16.4)
